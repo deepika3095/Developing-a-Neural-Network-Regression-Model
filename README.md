@@ -86,6 +86,8 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 <img width="266" height="548" alt="image" src="https://github.com/user-attachments/assets/8aab50bc-9c31-493e-a0d1-8b378ad1a54f" />
 
 ## OUTPUT
+<img width="400" height="265" alt="image" src="https://github.com/user-attachments/assets/6c3b487d-07b5-4380-a3b3-22d5179c6e0d" />
+
 ### Training Loss Vs Iteration Plot
 <img width="657" height="517" alt="image" src="https://github.com/user-attachments/assets/4a8390d0-2e13-4118-8acc-d51a27369d00" />
 
